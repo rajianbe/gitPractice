@@ -7,3 +7,5 @@ soe-dev
 	abe2 その2
 		abe2 child1
 		abe2 child2
+		abe2 child2
+			abe2 child feature
