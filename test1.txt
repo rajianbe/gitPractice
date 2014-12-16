@@ -5,5 +5,7 @@ kotadev2
 soe-dev
 	abe2 その1
 	abe2 その2
+	hahaha-i
 		abe2 child2
 			abe2 child feature
+	hohoho-i
